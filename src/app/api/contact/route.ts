@@ -166,7 +166,7 @@ Reply directly to this email to respond to ${name}.
           <p>I typically respond within 24-48 hours. If your message is urgent, feel free to reach out to me directly.</p>
           
           <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #e9ecef; color: #666; font-size: 14px;">
-            <p>Best regards,<br>Yasser Tahiri</p>
+            <p>Best regards,<br>Ndayishaba Ivan</p>
             <p>Software Engineer</p>
           </div>
         </div>
@@ -186,7 +186,7 @@ ${message}
 I typically respond within 24-48 hours. If your message is urgent, feel free to reach out to me directly.
 
 Best regards,
-Yasser Tahiri
+Ndayishaba Ivan
 Software Engineer
       `,
     });

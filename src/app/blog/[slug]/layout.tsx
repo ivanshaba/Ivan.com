@@ -26,7 +26,7 @@ export async function generateMetadata({
     };
   }
 
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://yezz.me";
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://";
   const postUrl = `${baseUrl}/blog/${post.slug}`;
   // Generate dynamic OG image URL
   const ogImageUrl = `${baseUrl}/api/og?title=${encodeURIComponent(post.title)}&author=${encodeURIComponent(personalInfo.name)}&date=${encodeURIComponent(new Date(post.date).toLocaleDateString())}`;

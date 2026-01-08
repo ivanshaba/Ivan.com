@@ -85,28 +85,28 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
     headline: post.title,
     description: post.excerpt,
     image: post.image
-      ? `${process.env.NEXT_PUBLIC_BASE_URL || "https://yezz.me"}${post.image}`
+      ? `${process.env.NEXT_PUBLIC_BASE_URL || "https://"}${post.image}`
       : undefined,
     datePublished: post.date,
     dateModified: post.date,
     author: {
       "@type": "Person",
-      name: "Yasser Tahiri",
-      url: "https://yezz.me",
+      name: "Ndayishaba Ivan",
+      url: "",
       sameAs: [
-        "https://github.com/yezz123",
-        "https://twitter.com/0xyezzz",
-        "https://linkedin.com/in/yezz123",
+        "https://github.com/ivanshaba",
+        // "https://twitter.com/0xyezzz",
+        // "https://linkedin.com/in/yezz123",
       ],
     },
     publisher: {
       "@type": "Person",
-      name: "Yasser Tahiri",
-      url: "https://yezz.me",
+      name: "Ndayishaba Ivan",
+      url: "",
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `${process.env.NEXT_PUBLIC_BASE_URL || "https://yezz.me"}/blog/${post.slug}`,
+      "@id": `${process.env.NEXT_PUBLIC_BASE_URL || "/"}/blog/${post.slug}`,
     },
     keywords: post.tags.join(", "),
     articleSection: "Technology",

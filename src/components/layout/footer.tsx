@@ -87,7 +87,7 @@ export function Footer() {
             { name: "About", href: "/about" },
             { name: "Projects", href: "/projects" },
             { name: "Blog", href: "/blog" },
-            { name: "Talks", href: "/talks" },
+            // { name: "Talks", href: "/talks" },
           ],
           resources: [
             { name: "OSS", href: "/oss" },

@@ -1,34 +1,34 @@
 # Personal Information
 personal:
-  name: "Yasser Tahiri"
-  title: "Senior Software Engineer"
-  bio: "Software Engineer with a relentless pursuit of knowledge and a genuine passion for emerging technologies, particularly in the realms of Backend and DevOps."
+  name: "Ndayishaba Ivan"
+  title: "Software Developer"
+  bio:
+    "Programmer and Digital Manager with a strong passion for building scalable web solutions and leveraging digital marketing to drive visibility, engagement, and growth."
   bioLong: |
-    As a Software Engineer, my journey has been marked by a relentless pursuit of knowledge, largely self-driven and fueled by a genuine passion for emerging technologies, particularly in the realms of Backend and DevOps.
-
-    Beyond my technical expertise, I am deeply enthusiastic about groundbreaking concepts and thrive on unconventional modes of thinking, a fervor that often surpasses my dedication to technology. My commitment to staying on the cutting edge of the industry is not merely a professional obligation but a personal drive that fuels my continuous exploration of innovative ideas and solutions.
-  avatar: "/images/avatar.jpeg"
-  location: "Morocco"
-  email: "hello@yezz.me"
-  github: "yezz123"
-  twitter: "0xyezzz"
-  linkedin: "yezz123"
-  steam: "yezz123"
-  website: "https://yezz.me"
+    As a programmer and digital manager, my work sits at the intersection of technology and growth. I build and manage digital systems that not only function efficiently but also drive visibility, engagement, and business results. My journey has been largely self driven, shaped by hands on experience in software development, web technologies, and modern deployment workflows.
+    Beyond writing code, I specialize in leveraging digital marketing strategies on social media, web optimization, and online branding to translate technical solutions into real-world impact. I thrive on innovative thinking, problem-solving, and adapting technology to meet business goals. This blend of programming expertise and digital marketing insight allows me to approach projects holistically, ensuring both technical excellence and strong market presence.
+  avatar: "/images/shaba.JPG"
+  location: "Kampala-Uganda"
+  email: "Ndayishabaivan@gmail.com"
+  github: "ivanshaba"
+  twitter: "i_ndayishaba"
+  linkedin: "Ndayishaba ivan"
+  website: "https://Ivan.com"
 
 # Contact & Booking Configuration
 contact:
-  email: "hello@yezz.me"
-  calUsername: "ytahiri"
+  email: "Ndayishabaivan@gmail.com"
+  calUsername: "ivanshaba"
   responseTime: "48 hours"
   availableForWork: true
 
 # Site Configuration
 site:
-  title: "Yasser Tahiri"
-  description: "Passionate Software Engineer with a relentless pursuit of knowledge and a genuine passion for emerging technologies, particularly in the realms of Backend and DevOps."
-  url: "https://yezz.me"
-  author: "Yasser Tahiri"
+  title: "Ndayishaba Ivan"
+  description:
+     "Programmer and Digital Manager with a strong passion for building scalable web solutions and leveraging digital marketing to drive visibility, engagement, and growth."
+  url: "https://Ivan.com"
+  author: "Ndayishaba Ivan"
   keywords:
     - "Software Engineer"
     - "Backend"
@@ -39,20 +39,18 @@ site:
 # Social Links
 social:
   github:
-    url: "https://github.com/yezz123"
+    url: "https://github.com/ivanshaba3"
     username: "yezz123"
   twitter:
-    url: "https://x.com/0xyezzz"
+    url: "https://x.com/-i_ndayishaba"
     username: "0xyezzz"
   linkedin:
-    url: "https://linkedin.com/in/yezz123"
+    url: "https://linkedin.com/in/Ndayishabaivan"
     username: "yezz123"
   email:
-    url: "mailto:hello@yezz.me"
-    username: "hello@yezz.me"
-  steam:
-    url: "https://steamcommunity.com/id/yezz123"
-    username: "yezz123"
+    url: "mailto:ndayishabaivan@gmail.com"
+    username: "ndayishabaivan@gmail.com"
+  
 
 # Navigation Configuration
 navigation:
@@ -66,9 +64,9 @@ navigation:
     - name: "Blog"
       href: "/blog"
       icon: "book"
-    - name: "Talks"
-      href: "/talks"
-      icon: "mic"
+    # - name: "Talks"
+    #   href: "/talks"
+    #   icon: "mic"
     - name: "Contact"
       href: "/contact"
       icon: "mail"
@@ -87,10 +85,10 @@ seo:
   openGraph:
     type: "website"
     locale: "en_US"
-    siteName: "Yasser Tahiri Portfolio"
+    siteName: "ndayishaba ivan Portfolio"
   twitter:
     card: "summary_large_image"
-    creator: "@0xyezzz"
+    creator: "@ivanshaba"
 
 # Features Configuration
 features:
@@ -115,8 +113,8 @@ footer:
       href: "/projects"
     - name: "Blog"
       href: "/blog"
-    - name: "Talks"
-      href: "/talks"
+    # - name: "Talks"
+    #   href: "/talks"
   resources:
     - name: "OSS"
       href: "/oss"
@@ -131,7 +129,7 @@ footer:
 
 # GitHub Configuration
 github:
-  username: "yezz123"
+  username: "ivanshaba"
   token: ""
   pinnedRepos: 3
   showStats: true

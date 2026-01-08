@@ -154,10 +154,10 @@ export default function AboutPage() {
               onClick={() => setIsImageModalOpen(true)}
             >
               <Image
-                src="/images/og/og.jpeg"
+                src="/images/shaba.JPG"
                 alt="About Banner"
-                width={1200}
-                height={630}
+                width={700}
+                height={230}
                 className="rounded-lg shadow-lg w-full h-auto object-cover brightness-110 contrast-90 transition-transform duration-300 group-hover:scale-105"
                 priority
               />
@@ -406,10 +406,10 @@ export default function AboutPage() {
             >
               <div className="relative">
                 <Image
-                  src="/images/og/og.jpeg"
+                  src="/images/shaba.JPG"
                   alt="About Banner - Full Size"
-                  width={1200}
-                  height={630}
+                 width={700}
+                height={230}
                   quality={85}
                   className="rounded-lg shadow-2xl w-full h-auto object-contain max-h-[90vh]"
                   priority

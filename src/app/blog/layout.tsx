@@ -6,7 +6,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const { personal, site } = config;
 
   const baseUrl =
-    site?.url || process.env.NEXT_PUBLIC_BASE_URL || "https://yezz.me";
+    site?.url || process.env.NEXT_PUBLIC_BASE_URL || "/";
   const blogUrl = `${baseUrl}/blog`;
   const description = `Read the latest blog posts by ${personal.name}, a ${personal.title}. ${personal.bio}`;
   // Generate dynamic OG image URL for blog listing

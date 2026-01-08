@@ -95,7 +95,7 @@ export function HeroSection() {
             >
               <Image
                 src="/icon.svg"
-                alt="Yasser Tahiri Portfolio Logo"
+                alt="ivan's Portfolio Logo"
                 className="w-32 h-32 object-contain"
                 width={128}
                 height={128}
@@ -216,7 +216,7 @@ export function HeroSection() {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/about" aria-label="Learn more about Yasser Tahiri">
+              <a href="/about" aria-label="Learn more about Ndayishaba Ivan">
                 Learn More
               </a>
             </Button>

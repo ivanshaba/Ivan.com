@@ -8,7 +8,7 @@ export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);
     const title = searchParams.get("title") || "Blog Post";
-    const author = searchParams.get("author") || "Yasser Tahiri";
+    const author = searchParams.get("author") || "Ndayishaba Ivan";
     const date = searchParams.get("date") || new Date().toLocaleDateString();
 
     return new ImageResponse(
@@ -183,7 +183,7 @@ export async function GET(request: NextRequest) {
             fontWeight: "500",
           }}
         >
-          yezz.me
+          Ndayishaba Ivan
         </div>
       </div>,
       {

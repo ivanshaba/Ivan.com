@@ -1,18 +1,31 @@
-- company: "Yezz LLC."
-  position: "Founder & Software Engineer"
-  startDate: "2021-01-17"
-  endDate: null
-  description: "In January 2021, I registered Yezz LLC. as my first single-proprietor LLC in Delaware, USA. I work with customers worldwide to help them craft performant Web and DevOps apps using several technologies."
-  technologies: ["Python", "FastAPI", "AWS", "Docker", "Kubernetes"]
-  logoUrl: "/images/companies/yezz-llc.png"
-  url: "https://yezz.me"
+- company: "Innovation Village Kampala"
+  position: "Data entrant and analyst"
+  # startDateDate: "2022-10-17"
+  endDate: "2023-04-10"
+  description: "In October 2022, I joined, I joined Innovation Village Kampala as a Data entrant and analyst. I worked on all the organisation data and information including that of Motive Kampala in partnership with mastercard. Among my roles, I taught in a Holiday program that included active students and S.6 vacists called Sahara program that inclded Web development, games development and robotics."
+  technologies: ["Python", "html", "css", "javascript",]
+  logoUrl: "/images/companies/pragma.svg"
+  url: "https://pragma.build"
 
-- company: "Pragma Labs."
-  position: "Founding Software Engineer"
-  startDate: "2024-12-10"
-  endDate: null
-  description: "I joined Pragma as a Founding Senior Software Engineer, focusing on Working on infrastructure for oracles, enabling anyone to deploy optimized oracles for any application."
+
+- company: "NK Group"
+  position: "Digital Manager"
+  startDate: "2023-04-10"
+  endDate: "2024-08-17"
+  description: "On 2023-4-10, I joined NK Group and worked both as a Digital Manager and a web developer. I was able to work on powerful brands right now such as Lexormart Supermarket from the Lexor Group, Lake Victoria Logistics and Uzima safaris which is my current working company. I helped grow their online presence and building their customer confidence and trust online by leveraging my technical background of web and mobile application developent and my deep understanding of internet and technology. My tools for these projects include photoshop(for graphics designing), premiere pro(for video editing)."
   technologies:
-    ["Python", "Rust", "Docker", "Kubernetes", "FastAPI", "GCP", "AWS"]
+    ["Graphics Design", "javascript"]
+  logoUrl: "/images/companies/pragma.svg"
+  url: "https://pragma.build"
+
+
+
+- company: "Uzima Safaris"
+  position: "Digital Manager"
+  startDate: "2024-08-17"
+  endDate: null
+  description: "On 2024-8-17, I joined Uzima Safaris mainly as a Digital Manager. my major role involves content creation, scheduling/strategizing content, posting and running adds. Uzima safaris has rapidly grown over time with thousands of people following and engaging with our content. Uzima safaris receives direct messages regularly from potetntial clients across all social media platforms. As of early 2026, Uzima safaris has registerd over 1,200 instagram followers, 2,400 facebook followers and 2,000 tiktok followers."
+  technologies:
+    ["Graphics Design", "javascript"]
   logoUrl: "/images/companies/pragma.svg"
   url: "https://pragma.build"

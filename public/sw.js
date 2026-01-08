@@ -129,7 +129,7 @@ self.addEventListener("fetch", (event) => {
               `<!DOCTYPE html>
               <html>
                 <head>
-                  <title>Offline - Yasser Tahiri</title>
+                  <title>Offline - Ndayishaba Ivan</title>
                   <meta name="viewport" content="width=device-width, initial-scale=1">
                   <style>
                     body { font-family: system-ui, sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
