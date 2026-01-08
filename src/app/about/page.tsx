@@ -377,7 +377,7 @@ export default function AboutPage() {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="flex justify-center"
         >
-          <ResumeDownload />
+          {/* <ResumeDownload /> */}
         </motion.div>
       </div>
 
