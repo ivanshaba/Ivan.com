@@ -38,7 +38,7 @@
   ],
   "scripts": {
     "dev": "NODE_OPTIONS='--no-deprecation --no-warnings' next dev --turbopack",
-    "build": "next build --turbopack",  
+    "build": "PRISMA_SKIP_POSTINSTALL_GENERATE=1 next build",  
     "start": "NODE_OPTIONS='--no-deprecation' next start",
     "lint": "eslint",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
