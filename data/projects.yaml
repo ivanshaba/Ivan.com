@@ -10,9 +10,9 @@
 - id: "good-forests"
   name: "Good Forests"
   description: "A professional environmental website presenting forestry initiatives and sustainability programs."
-  url: "https://good-five-lac.vercel.app"
+  url: "https://good-forest.netlify.app"
   technologies: ["Next.js", "React", "TailwindCSS"]
-  imageUrl: "https://image.thum.io/get/width/1200`/https://good-five-lac.vercel.app"
+  imageUrl: "https://image.thum.io/get/width/1200/https://good-forest.netlify.app"
   featured: true
   pinned: true
 
@@ -34,7 +34,7 @@
   featured: false
   pinned: false
 
-- iid: "ATA"
+- id: "ATA"
   name: "ATA"
   description: "HVAC company for making indusrtial, factory and domestic air conditioning equipments"
   url: "https://ata-com-7ncj.vercel.app"
