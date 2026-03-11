@@ -21,7 +21,7 @@
   description: "A modern IPTV web application with payment system incorporated for subscriptions featuring smooth UI and responsive design."
   url: "https://ivan-com.vercel.app"
   technologies: ["Next.js", "React", "TailwindCSS", "Framer Motion"]
-  imageUrl: "https://image.thum.io/get/width/1200/https://ivan-com.vercel.app"
+  imageUrl: "https://image.thum.io/get/width/1200/https://ornate-dasik-0ad564.netlify.app"
   featured: true
   pinned: true
 
@@ -37,8 +37,8 @@
 - iid: "ATA"
   name: "ATA"
   description: "HVAC company for making indusrtial, factory and domestic air conditioning equipments"
-  url: "https://ornate-dasik-0ad564.netlify.app"
+  url: "https://ata-com-7ncj.vercel.app"
   technologies: ["HTML", "CSS", "JavaScript"]
-  imageUrl: "https://image.thum.io/get/width/1200/https://ornate-dasik-0ad564.netlify.app"
+  imageUrl: "https://image.thum.io/get/width/1200/https://ata-com-7ncj.vercel.app"
   featured: false
   pinned: false
