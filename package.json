@@ -38,7 +38,7 @@
   ],
   "scripts": {
     "dev": "NODE_OPTIONS='--no-deprecation --no-warnings' next dev --turbopack",
-    "build": "next build",  
+    "build": "next build",
     "start": "NODE_OPTIONS='--no-deprecation' next start",
     "lint": "eslint",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
@@ -59,7 +59,8 @@
     "@radix-ui/react-separator": "^1.1.8",
     "@radix-ui/react-slot": "^1.2.4",
     "@react-email/render": "^2.0.0",
-    "@supabase/supabase-js": "^2.86.2",
+    "@supabase/ssr": "^0.9.0",
+    "@supabase/supabase-js": "^2.99.1",
     "@tailwindcss/typography": "^0.5.19",
     "@types/js-yaml": "^4.0.9",
     "@types/three": "^0.181.0",

@@ -1,53 +1,44 @@
-- id: "0d Finance"
-  name: "0d Finance"
-  description: "0D Finance is a DeFi curator building institutional-grade vault strategies on Starknet."
-  url: "https://0d.finance"
-  technologies: ["Rust", "Terraform", "Starknet", "Docker", "Kubernetes"]
-  imageUrl: "/images/projects/0d.jpg"
+- id: "libra-vocational"
+  name: "Libra Vocational Institute"
+  description: "A modern website for a vocational training institute showcasing courses and programs with a clean responsive design."
+  url: "https://libravocational.netlify.app"
+  technologies: ["Next.js", "React", "TailwindCSS"]
+  imageUrl: "https://image.thum.io/get/width/1200/https://libravocational.netlify.app"
   featured: true
   pinned: true
 
-- id: "StackAI"
-  name: "StackAI"
-  description: "StackAI is a platform for building and deploying machine learning models with automated workflows and monitoring."
-  url: "https://stackai.com"
-  technologies: ["Python", "FastAPI", "Azure", "Docker", "Kubernetes"]
-  imageUrl: "/images/projects/stackai.jpg"
+- id: "good-forests"
+  name: "Good Forests"
+  description: "A professional environmental website presenting forestry initiatives and sustainability programs."
+  url: "https://good-five-lac.vercel.app"
+  technologies: ["Next.js", "React", "TailwindCSS"]
+  imageUrl: "https://image.thum.io/get/width/1200`/https://good-five-lac.vercel.app"
   featured: true
   pinned: true
 
-- id: "Pragma"
-  name: "Pragma"
-  description: "Pragma is the open and permissionless infrastructure for oracles, enabling anyone to deploy optimized oracles for any application."
-  url: "https://pragma.build"
-  technologies: ["Python", "Rust", "Docker", "Kubernetes", "FastAPI", "GCP", "AWS"]
-  imageUrl: "/images/projects/pragma.jpg"
+- id: "apple-park"
+  name: "Apple Park IPTV"
+  description: "A modern IPTV web application with payment system incorporated for subscriptions featuring smooth UI and responsive design."
+  url: "https://ivan-com.vercel.app"
+  technologies: ["Next.js", "React", "TailwindCSS", "Framer Motion"]
+  imageUrl: "https://image.thum.io/get/width/1200/https://ivan-com.vercel.app"
   featured: true
   pinned: true
 
-- id: "Authless"
-  name: "Authless (Coming Soon)"
-  description: "Authless is a modern, open-source authentication and authorization solution for modern web applications."
-  url: "https://github.com/authless-space"
-  technologies: ["Python", "FastAPI", "React", "PostgreSQL", "Docker", "Kubernetes"]
-  imageUrl: "/images/projects/authless.png"
-  featured: true
-  pinned: false
-
-- id: "AIOpsight"
-  name: "AIOpsight"
-  description: "Observability layer for AI systems, designed to deliver deep insights without reinventing the wheel for every new model, method, or metric."
-  url: "https://aiopsight.com/"
-  technologies: ["Rust", "Python", "Docker", "Kubernetes", "Terraform", "AWS"]
-  imageUrl: "/images/projects/aiopsight.jpg"
+- id: "omuron-advocates"
+  name: "Omuron & Co. Advocates"
+  description: "A professional law firm website designed to showcase legal services."
+  url: "https://omuron.vercel.app"
+  technologies: ["Next.js", "React", "TailwindCSS"]
+  imageUrl: "https://image.thum.io/get/width/1200/https://omuron.vercel.app"
   featured: false
   pinned: false
 
-- id: "Dopp Finance"
-  name: "Dopp Finance"
-  description: "Dopp Finance is a DeFi platform that allows users to earn interest on their deposits."
-  url: "https://dopp.finance"
-  technologies: ["Rust", "Python", "Docker", "Kubernetes", "Terraform", "AWS"]
-  imageUrl: "/images/projects/dopp.jpg"
+- iid: "ATA"
+  name: "ATA"
+  description: "HVAC company for making indusrtial, factory and domestic air conditioning equipments"
+  url: "https://ornate-dasik-0ad564.netlify.app"
+  technologies: ["HTML", "CSS", "JavaScript"]
+  imageUrl: "https://image.thum.io/get/width/1200/https://ornate-dasik-0ad564.netlify.app"
   featured: false
   pinned: false
